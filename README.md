@@ -1,2 +1,2 @@
-# iShopLite_Docs
+# iShopLite Documentation Repository
 All Documentation for iShopLite
